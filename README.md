@@ -1,10 +1,7 @@
-# AbstractCore
+# Unified LLM
 
-[![PyPI version](https://img.shields.io/pypi/v/abstractcore.svg)](https://pypi.org/project/abstractcore/)
-[![CI](https://github.com/lpalbou/AbstractCore/actions/workflows/ci.yml/badge.svg)](https://github.com/lpalbou/AbstractCore/actions/workflows/ci.yml)
-[![Tested Python](https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fraw.githubusercontent.com%2Flpalbou%2FAbstractCore%2Fmain%2F.github%2Fworkflows%2Fci.yml&query=%24.jobs.test.strategy.matrix%5B%22python-version%22%5D&label=tested%20python&color=blue)](https://github.com/lpalbou/AbstractCore/actions/workflows/ci.yml)
-[![license](https://img.shields.io/github/license/lpalbou/AbstractCore)](https://github.com/lpalbou/AbstractCore/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/lpalbou/AbstractCore?style=social)](https://github.com/lpalbou/AbstractCore/stargazers)
+This repository belongs to Sidhant Pande.
+Repository: [https://github.com/sidhantpande/Unified-LLM.git](https://github.com/sidhantpande/Unified-LLM.git)
 
 Unified LLM Interface
 > Write once, run everywhere
