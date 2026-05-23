@@ -1,0 +1,7 @@
+# GitHub Linguist overrides to ensure Python is tracked as the main language
+*.txt linguist-vendored
+*.md linguist-vendored
+docs/* linguist-vendored
+tests/* linguist-vendored
+examples/* linguist-vendored
+*.py linguist-detectable=true
